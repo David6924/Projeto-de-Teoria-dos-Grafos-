@@ -1,12 +1,15 @@
 # Grafos — Algoritmos de Menor Caminho e Coloração
 
-markdown## Integrantes
+<<<<<<< HEAD
+## Integrantes
 - Fernando Emídio Belfort do Rego
 - David Kelve Oliveira Barbosa
 - Marcelo Eduardo Pereira da Silva
 - Marcela Rocha Silva
 ---
 
+=======
+>>>>>>> da077e2b9dea9380038de55c7d1399cc81343353
 > Implementação acadêmica de algoritmos clássicos de grafos em Python, cobrindo menor caminho em grafos dirigidos ponderados e coloração de grafos não-dirigidos.
 
 ---
